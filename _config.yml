@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: 
-title: kkimm87
+title: 비전공 초보 개발자의 개발노트
 
 defaults:
   -
