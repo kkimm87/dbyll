@@ -14,11 +14,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: kkimm87
+      title: 풀스택 개발자가 되고 싶다!
 
 description: Stylish Jekyll Theme
 author:
-  name: kkimm87
+  name: KYS
   email: 
   github: kkimm87
   twitter: 
