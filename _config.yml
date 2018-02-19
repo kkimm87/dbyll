@@ -6,30 +6,30 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+google_analytics: 
+title: kkimm87
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: kkimm87
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: kkimm87
+  email: 
+  github: https://github.com/kkimm87
+  twitter: 
+  pinterest: 
+  linkedin: 
+  bio: 초보 개발자의 NULL값 없애기!
+  email_md5: 
 
-rss_path: feed.xml
+rss_path: 
 categories_path: categories.html
-tags_path: tags.html
+tags_path: 
 
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
